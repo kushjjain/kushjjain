@@ -6,17 +6,17 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Developer;Data+Analytics+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Developer;Data+Analytics+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me 
 
 Computer Engineering student at Dwarkadas J. Sanghvi College of Engineering with a passion for creating impactful tech solutions. My technical journey spans Full Stack Development, Data Analytics, and Machine Learning.
 
-- 🎓 Currently maintaining a **9.062 CGPA** in Computer Engineering
-- 🏆 **HackConquest winner** and EY-Techathon 5.0 semifinalist
 - 🌱 Currently exploring advanced Spring Framework applications and Power BI analytics
 - 💼 Skilled in both frontend and backend development with a focus on Java and React
+- 🔍 Interested in creating scalable solutions that solve real-world problems
+- 🚀 Always eager to learn new technologies and methodologies
 - 📍 Based in Mumbai, India
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Tech Stack
@@ -45,7 +45,7 @@ Computer Engineering student at Dwarkadas J. Sanghvi College of Engineering with
 </details>
 
 <details open>
-<summary><b>Backend & Databases</b></summary>
+<summary><b>Backend Development</b></summary>
 <br>
 <p>
   <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
@@ -54,6 +54,13 @@ Computer Engineering student at Dwarkadas J. Sanghvi College of Engineering with
   <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+</p>
+</details>
+
+<details open>
+<summary><b>Databases</b></summary>
+<br>
+<p>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" alt="JDBC">
@@ -82,44 +89,3 @@ Computer Engineering student at Dwarkadas J. Sanghvi College of Engineering with
 </p>
 </details>
 
-## 🏆 Achievements & Certifications
-
-### 🎖️ Achievements
-- **Winner** at HackConquest, a 36-hour hackathon at Thakur College of Engineering
-- **Semifinalist** at EY-Techathon 5.0, a national-level hackathon
-
-### 📜 Certifications
-- [Building HTTP APIs with Spring](https://www.coursera.org/) - Coursera
-- [Master Spring Boot 3 & Spring Framework 6 with Java](https://www.udemy.com/) - Udemy
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushjjain&show_icons=true&theme=tokyonight" alt="Kush's GitHub stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushjjain&layout=compact&theme=tokyonight" alt="Top Langs" height="170">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushjjain&theme=tokyonight" alt="GitHub Streak">
-</div>
-
-## 📫 Let's Connect!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/kush-jain-0a8910299/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
-  </a>
-  <a href="mailto:kushjjain@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
-  </a>
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kushjjain&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
-
-<div align="center">
-  
-  ### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
-  
-</div>
