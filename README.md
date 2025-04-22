@@ -1,16 +1,125 @@
-## Hi there 👋
+# <div align="center">👨‍💻 Kush Jain</div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/kush-jain-0a8910299/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:kushjjain@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/kushjjain"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</div>
 
-<!--
-**kushjjain/kushjjain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Developer;Data+Analytics+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+</p>
 
-Here are some ideas to get you started:
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Computer Engineering student at Dwarkadas J. Sanghvi College of Engineering with a passion for creating impactful tech solutions. My technical journey spans Full Stack Development, Data Analytics, and Machine Learning.
+
+- 🎓 Currently maintaining a **9.062 CGPA** in Computer Engineering
+- 🏆 **HackConquest winner** and EY-Techathon 5.0 semifinalist
+- 🌱 Currently exploring advanced Spring Framework applications and Power BI analytics
+- 💼 Skilled in both frontend and backend development with a focus on Java and React
+- 📍 Based in Mumbai, India
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Tech Stack
+
+<details open>
+<summary><b>Languages & Core Skills</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+</p>
+</details>
+
+<details open>
+<summary><b>Frontend Development</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
+</details>
+
+<details open>
+<summary><b>Backend & Databases</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Security">
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" alt="JDBC">
+</p>
+</details>
+
+<details open>
+<summary><b>Data Analytics & Tools</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"> 
+  <img src="https://img.shields.io/badge/AutoCAD-E10B0B?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD">
+</p>
+</details>
+
+<details open>
+<summary><b>Methodologies & Practices</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white" alt="Agile">
+  <img src="https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="SCRUM">
+  <img src="https://img.shields.io/badge/RESTful_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="RESTful APIs">
+</p>
+</details>
+
+## 🏆 Achievements & Certifications
+
+### 🎖️ Achievements
+- **Winner** at HackConquest, a 36-hour hackathon at Thakur College of Engineering
+- **Semifinalist** at EY-Techathon 5.0, a national-level hackathon
+
+### 📜 Certifications
+- [Building HTTP APIs with Spring](https://www.coursera.org/) - Coursera
+- [Master Spring Boot 3 & Spring Framework 6 with Java](https://www.udemy.com/) - Udemy
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kushjjain&show_icons=true&theme=tokyonight" alt="Kush's GitHub stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushjjain&layout=compact&theme=tokyonight" alt="Top Langs" height="170">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushjjain&theme=tokyonight" alt="GitHub Streak">
+</div>
+
+## 📫 Let's Connect!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kush-jain-0a8910299/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+  </a>
+  <a href="mailto:kushjjain@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kushjjain&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
+
+<div align="center">
+  
+  ### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+  
+</div>
