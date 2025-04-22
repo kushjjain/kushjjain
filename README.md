@@ -89,3 +89,13 @@ Computer Engineering student at Dwarkadas J. Sanghvi College of Engineering with
 </p>
 </details>
 
+
+## 📈 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushjjain&theme=gruvbox&layout=compact&hide_border=false" />
+</p>
+
+---
+
+<p align="center"><b>✨ Let's connect and build something meaningful together! ✨</b></p>
