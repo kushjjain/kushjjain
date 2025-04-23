@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Developer;Data+Analytics+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Developer;Data+Analytics+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=EE4B2B&vCenter=true&size=22">
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me 
